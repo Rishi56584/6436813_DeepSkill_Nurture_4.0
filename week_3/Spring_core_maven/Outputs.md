@@ -1,13 +1,13 @@
+## Exercise 1&2 (BASIC_SPRING_APPLICATION)
 <img width="1440" alt="Screenshot 2025-07-06 at 12 03 52" src="https://github.com/user-attachments/assets/cd3466c5-5ba4-40e8-8770-c0891db6ed4c" />
 
-![Screenshot 2025-07-06 at 12 21 23](https://github.com/user-attachments/assets/a147d6dc-74be-405d-918f-f3f76717f2d9)
-
+## Exercise 3 (BASIC_SPRING_APPLICATION)
 <img width="1440" alt="Screenshot 2025-07-06 at 12 21 25" src="https://github.com/user-attachments/assets/450c5639-8aec-477a-a47a-9801574f5372" />
-
+## Exercise 4&5 (Library_mgmt_MAVEN_eX-4)
 <img width="1440" alt="Screenshot 2025-07-06 at 12 48 15" src="https://github.com/user-attachments/assets/489814b4-90fa-4613-bf5e-0618c9403e6c" />
-
+## Exercise 6 (Library_mgmt_MAVEN_eX-4)
 <img width="1440" alt="Screenshot 2025-07-06 at 13 09 47" src="https://github.com/user-attachments/assets/523d00af-5a67-4db6-ab69-fd6c5557157e" />
-
+## Exercise 7
 <img width="1440" alt="Screenshot 2025-07-06 at 13 18 13" src="https://github.com/user-attachments/assets/b7659850-aaf2-43b1-8889-91b9c923e658" />
 
 ## Exercise 8
