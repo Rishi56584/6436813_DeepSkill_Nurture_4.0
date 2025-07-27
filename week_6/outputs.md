@@ -17,6 +17,8 @@
 # 5
 
 # 6
+<img width="1440" height="900" alt="Screenshot 2025-07-27 at 18 36 55" src="https://github.com/user-attachments/assets/d02527d2-895c-420a-aec8-025bd96e2636" />
+<img width="1440" height="900" alt="Screenshot 2025-07-27 at 18 37 02" src="https://github.com/user-attachments/assets/6c1a6b6b-37ae-454b-bbd3-ca08a6983b80" />
 
 # 7
 
